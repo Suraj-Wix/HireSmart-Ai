@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2
+psycopg2-binary
+python-multipart
+pyjwt
+scikit-learn
+numpy
+pymupdf
+python-docx
+httpx
+# optional semantic model: sentence-transformers  (set USE_TRANSFORMERS=1)
